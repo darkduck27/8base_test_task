@@ -1,0 +1,9 @@
+{
+  "data": {
+    "resolver": "custom"
+  },
+  "headers": {
+    "x-header-custom": "header value"
+  },
+  "body": "{\"resolver\":\"custom\"}"
+}

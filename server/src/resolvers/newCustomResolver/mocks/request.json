@@ -1,0 +1,9 @@
+{
+  "data": {
+    "bar": "foo"
+  },
+  "headers": {
+    "x-header-1": "header value"
+  },
+  "body": "{\"bar\":\"foo\"}"
+}

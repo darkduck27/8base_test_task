@@ -1,0 +1,12 @@
+functions:
+  myCustomResolver:
+    type: resolver
+    handler:
+      code: src/resolvers/myCustomResolver/handler.ts
+    schema: src/resolvers/myCustomResolver/schema.graphql
+  newCustomResolver:
+    type: resolver
+    handler:
+      code: src/resolvers/newCustomResolver/handler.ts
+    schema: src/resolvers/newCustomResolver/schema.graphql
+
